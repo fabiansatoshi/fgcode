@@ -1,0 +1,4 @@
+baseURL = "https://fgcode.netlify.app/"
+languageCode = "en-us"
+title = "fgcode"
+theme = "avenco"

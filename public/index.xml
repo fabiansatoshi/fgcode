@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fgcode</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on fgcode</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cómo Obtener Subtítulos de un Video Usando JavaScript en la Consola</title>
+      <link>http://localhost:1313/posts/2024-06-08-obtener-subtitulos-de-un-video/</link>
+      <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-06-08-obtener-subtitulos-de-un-video/</guid>
+      <description>Introducción En este tutorial aprenderás cómo extraer y descargar subtítulos de videos utilizando JavaScript directamente desde la consola del navegador. Este método es útil para videos que ya tienen subtítulos embebidos y te permite guardarlos fácilmente en tu dispositivo.&#xA;Requisitos Navegador web (preferiblemente Chrome o Firefox) Video con subtítulos embebidos Pasos 1. Abrir el Video y Activar Subtítulos Primero, abre el video del cual quieres extraer los subtítulos y asegúrate de que los subtítulos están activados.</description>
+    </item>
+    <item>
+      <title>Data capture - Ala para diluir carrera sucia</title>
+      <link>http://localhost:1313/projects/2021-02-25-ala-carrera-sucia/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-02-25-ala-carrera-sucia/</guid>
+      <description> Data capture para la marca ALA de Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa. Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&#xA;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&#xA;ReactJS HTML CSS Javascript NPM NodeJS Mysql Conexión API </description>
+    </item>
+    <item>
+      <title>Data capture - Axe Promoción 2021</title>
+      <link>http://localhost:1313/projects/2021-03-25-axe/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-03-25-axe/</guid>
+      <description> Data capture para la marca Axe de Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa. Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&#xA;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&#xA;ReactJS HTML CSS Javascript NPM NodeJS Mysql Conexión API </description>
+    </item>
+    <item>
+      <title>Data capture - Cif Bioactive</title>
+      <link>http://localhost:1313/projects/2021-04-25-cif-bioactive/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-25-cif-bioactive/</guid>
+      <description> Data capture para la marca Cif Bioactive de Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa. Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&#xA;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&#xA;ReactJS HTML CSS Javascript NPM NodeJS Mysql Conexión API </description>
+    </item>
+    <item>
+      <title>Data capture - Cif Registrate y participá</title>
+      <link>http://localhost:1313/projects/2021-04-39-cif-registrate/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-cif-registrate/</guid>
+      <description> Data capture para la marca Cif Registrate y participá de Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa. Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&#xA;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&#xA;ReactJS HTML CSS Javascript NPM NodeJS Mysql Conexión API </description>
+    </item>
+    <item>
+      <title>Data capture - Club Skip</title>
+      <link>http://localhost:1313/projects/2021-04-39-club-skip/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-club-skip/</guid>
+      <description> Data capture para la marca Club Skipde Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa. Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&#xA;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&#xA;ReactJS HTML CSS Javascript NPM NodeJS Mysql Conexión API </description>
+    </item>
+    <item>
+      <title>Data capture - Ct Skip</title>
+      <link>http://localhost:1313/projects/2021-04-39-ctskip/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-ctskip/</guid>
+      <description> Data capture para la marca Ct Skipde Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa. Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&#xA;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&#xA;ReactJS HTML CSS Javascript NPM NodeJS Mysql Conexión API </description>
+    </item>
+    <item>
+      <title>Data capture - Dove mes del padre</title>
+      <link>http://localhost:1313/projects/2021-04-39-dove-mes-del-padre/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-dove-mes-del-padre/</guid>
+      <description> Data capture para la marca Dove mes del padre de Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa. Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&#xA;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&#xA;ReactJS HTML CSS Javascript NPM NodeJS Mysql Conexión API </description>
+    </item>
+    <item>
+      <title>Data capture - Dove Pelo</title>
+      <link>http://localhost:1313/projects/2021-04-39-dove-pelo/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-dove-pelo/</guid>
+      <description> Data capture para la marca Dove Pelode Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa. Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&#xA;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&#xA;ReactJS HTML CSS Javascript NPM NodeJS Mysql Conexión API </description>
+    </item>
+    <item>
+      <title>Data capture - Knorr activistas de la mesa</title>
+      <link>http://localhost:1313/projects/2021-04-39-knorr-activistas/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-knorr-activistas/</guid>
+      <description> Data capture para la marca Knorr activistas de la mesade Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa. Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&#xA;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&#xA;ReactJS HTML CSS Javascript NPM NodeJS Mysql Conexión API </description>
+    </item>
+    <item>
+      <title>Data capture - Registrá tu service</title>
+      <link>http://localhost:1313/projects/2021-04-39-registra-tu-service/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-registra-tu-service/</guid>
+      <description> Data capture para la marca Registrá tu servicede Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa. Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&#xA;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&#xA;ReactJS HTML CSS Javascript NPM NodeJS Mysql Conexión API </description>
+    </item>
+    <item>
+      <title>Data capture - Rexona boca</title>
+      <link>http://localhost:1313/projects/2021-04-39-rexona-boca/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-rexona-boca/</guid>
+      <description> Data capture para la marca Rexona bocade Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa. Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&#xA;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&#xA;ReactJS HTML CSS Javascript NPM NodeJS Mysql Conexión API </description>
+    </item>
+    <item>
+      <title>Data capture - Rexona copa libertadores</title>
+      <link>http://localhost:1313/projects/2021-04-39-rexona-copa-libertadores/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-rexona-copa-libertadores/</guid>
+      <description> Data capture para la marca Rexona copa libertadores de Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa. Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&#xA;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&#xA;ReactJS HTML CSS Javascript NPM NodeJS Mysql Conexión API </description>
+    </item>
+    <item>
+      <title>Data capture - Rexona River</title>
+      <link>http://localhost:1313/projects/2021-04-39-rexona-river/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-rexona-river/</guid>
+      <description> Data capture para la marca Rexona Riverde Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa. Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&#xA;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&#xA;ReactJS HTML CSS Javascript NPM NodeJS Mysql Conexión API </description>
+    </item>
+    <item>
+      <title>Data capture - Skip recomendadores</title>
+      <link>http://localhost:1313/projects/2021-04-39-skip-recomendadores/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-skip-recomendadores/</guid>
+      <description> Data capture para la marca Skip recomendadoresde Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa. Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&#xA;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&#xA;ReactJS HTML CSS Javascript NPM NodeJS Mysql Conexión API </description>
+    </item>
+    <item>
+      <title>Data capture - Tresemmé Master class</title>
+      <link>http://localhost:1313/projects/2021-04-39-tresemme-master-class/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-tresemme-master-class/</guid>
+      <description> Data capture para la marca Tresemmé Master classde Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa. Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&#xA;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&#xA;ReactJS HTML CSS Javascript NPM NodeJS Mysql Conexión API </description>
+    </item>
+    <item>
+      <title>Data capture - Uniliver Food Solutions</title>
+      <link>http://localhost:1313/projects/2021-04-39-unilever-food-solutions/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-unilever-food-solutions/</guid>
+      <description> Data capture para la marca Uniliver Food Solutionsde Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa. Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&#xA;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&#xA;ReactJS HTML CSS Javascript NPM NodeJS Mysql Conexión API </description>
+    </item>
+    <item>
+      <title>Data capture - Uniliver Protegé tu negocio</title>
+      <link>http://localhost:1313/projects/2021-04-39-unilever-chances-corto/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-unilever-chances-corto/</guid>
+      <description> Data capture para la marca Uniliver Protegé tu negociode Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa. Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&#xA;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&#xA;ReactJS HTML CSS Javascript NPM NodeJS Mysql Conexión API </description>
+    </item>
+    <item>
+      <title>Landing Promo Unilever</title>
+      <link>http://localhost:1313/projects/2021-01-25-landing-promo-unilever/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-01-25-landing-promo-unilever/</guid>
+      <description>Landing creada para las promociones vigentes en Unilever. Allí se alojan y muestran todas los datacaptures que fui creando para diversas marcas conglomerados. Esta OnePage Landing sirve para poder catalogar las promociones que serán accesibles mediante promociones en TV, banners, anuncios en la calle y diversas redes sociales Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&#xA;Si bien no serán todas las tecnologías usadas (porque son muchas más).</description>
+    </item>
+    <item>
+      <title>Data capture - Uniliver Participá y ganá</title>
+      <link>http://localhost:1313/projects/2021-04-39-unilivver-gana/</link>
+      <pubDate>Wed, 14 Apr 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-unilivver-gana/</guid>
+      <description> Data capture para la marca Uniliver Participá y ganá de Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa. Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&#xA;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&#xA;ReactJS HTML CSS Javascript NPM NodeJS Mysql Conexión API </description>
+    </item>
+    <item>
+      <title>Landing Promo Unilever</title>
+      <link>http://localhost:1313/projects/2020-06-23-knorr-mes-de-la-sopa-solidaria/</link>
+      <pubDate>Sun, 14 Jun 2020 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2020-06-23-knorr-mes-de-la-sopa-solidaria/</guid>
+      <description> Landing page (webapp) con un mapa interactivo con cada una de las provincias de Argentina donde se podía ver todos los comedores registrados que Knorr estaba ayudando en una época muy fuerte de pandemia. El mapa es un vector en SVG interactivo Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&#xA;ReactJS HTML CSS Javascript NPM NodeJS Mapa en SVG </description>
+    </item>
+    <item>
+      <title>Yerbanova - Página Oficial Argentina</title>
+      <link>http://localhost:1313/projects/2021-08-14-yerbanova/</link>
+      <pubDate>Tue, 14 Aug 2018 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-08-14-yerbanova/</guid>
+      <description> Programación de página web, diseño UX/UI y desarrollo de página de e-commerce. Página de oficial de Yerbanova Argentina (mantenimiento de código, agregado de recetas y productos)&#xA;Acá dejo una lista&#xA;HTML CSS Javascript Wordpress </description>
+    </item>
+    <item>
+      <title>Cica - Página Oficial Argentina</title>
+      <link>http://localhost:1313/projects/2021-07-14-cica/</link>
+      <pubDate>Sat, 14 Jul 2018 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-07-14-cica/</guid>
+      <description> Programación de página web, diseño UX/UI y desarrollo de página de e-commerce. Página de oficial de Cica Argentina (mantenimiento de código, agregado de recetas y productos)&#xA;Acá dejo una lista&#xA;HTML CSS Javascript Wordpress </description>
+    </item>
+    <item>
+      <title>El Genovese - Página Oficial Argentina</title>
+      <link>http://localhost:1313/projects/2019-08-14-elgenovese/</link>
+      <pubDate>Thu, 14 Jun 2018 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2019-08-14-elgenovese/</guid>
+      <description> Programación de página web, diseño UX/UI y desarrollo de página de e-commerce. Página de oficial de El Genovese Argentina (mantenimiento de código, agregado de recetas y productos)&#xA;Acá dejo una lista&#xA;HTML CSS Javascript Wordpress </description>
+    </item>
+    <item>
+      <title>Gerbaundo Hermanos Web</title>
+      <link>http://localhost:1313/projects/2018-06-14-gerbaundo-web/</link>
+      <pubDate>Thu, 14 Jun 2018 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2018-06-14-gerbaundo-web/</guid>
+      <description> Programación de página web, diseño UX/UI y desarrollo de página de e-commerce. Página de ventas de tractores y maquinaria pesada para siembra.&#xA;Acá dejo una lista&#xA;HTML CSS Javascript Wordpress </description>
+    </item>
+    <item>
+      <title>Guillermo Marín - Página Oficial Argentina</title>
+      <link>http://localhost:1313/projects/2019-08-14-guillermomarin.jpg/</link>
+      <pubDate>Thu, 14 Jun 2018 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2019-08-14-guillermomarin.jpg/</guid>
+      <description> Programación de página web, diseño UX/UI y desarrollo de página de e-commerce. Página de oficial de Guillermo Marín Argentina (mantenimiento de código, agregado de recetas y productos)&#xA;Acá dejo una lista&#xA;HTML CSS Javascript Wordpress </description>
+    </item>
+    <item>
+      <title>Hellmann&#39;s Selector de recetas - Página Oficial Argentina</title>
+      <link>http://localhost:1313/projects/2021-06-14-hellmanns-recetasfull/</link>
+      <pubDate>Thu, 14 Jun 2018 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-06-14-hellmanns-recetasfull/</guid>
+      <description> Programación de página web, diseño UX/UI y desarrollo de página de e-commerce. Webapp para la página oficial de Hellmann&amp;rsquo;s Selector de recetas Argentina (mantenimiento de código, agregado de recetas y productos). La web app genera una receta según&#xA;Acá dejo una lista&#xA;HTML CSS Javascript Wordpress </description>
+    </item>
+    <item>
+      <title>Insanity - Página Oficial Argentina</title>
+      <link>http://localhost:1313/projects/2019-08-14-insanity/</link>
+      <pubDate>Thu, 14 Jun 2018 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2019-08-14-insanity/</guid>
+      <description> Diseño web de banner para evento de Insanity sounds la plata. Diseño gráfico de vectores de dibujos.&#xA;Acá dejo una lista&#xA;HTML CSS Javascript Wordpress </description>
+    </item>
+    <item>
+      <title>Maizena - Página Oficial Argentina</title>
+      <link>http://localhost:1313/projects/2021-04-14-maizena-web/</link>
+      <pubDate>Thu, 14 Jun 2018 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-14-maizena-web/</guid>
+      <description> Programación de página web, diseño UX/UI y desarrollo de página de e-commerce. Página de oficial de Maizena Argentina (mantenimiento de código, agregado de recetas y productos)&#xA;Acá dejo una lista&#xA;HTML CSS Javascript Wordpress </description>
+    </item>
+    <item>
+      <title>Suave - Página Oficial Argentina</title>
+      <link>http://localhost:1313/projects/2018-06-14-suave-pagina/</link>
+      <pubDate>Thu, 14 Jun 2018 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2018-06-14-suave-pagina/</guid>
+      <description> Programación de página web, diseño UX/UI y desarrollo de página de e-commerce. Página de oficial de Suave Argentina (mantenimiento de código, agregado de recetas y productos)&#xA;Acá dejo una lista&#xA;HTML CSS Javascript Wordpress </description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Hi, my name is James Clayton. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90&amp;rsquo;s stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf twee thundercats ennui.</description>
+    </item>
+    <item>
+      <title>Elements</title>
+      <link>http://localhost:1313/elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/elements/</guid>
+      <description>A paragraph looks like this — Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures. Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies.&#xA;Headings by default: H1 Default styles for headings H2 Default styles for headings H3 Default styles for headings H4 Default styles for headings H5 Default styles for headings H6 Default styles for headings Lists Ordered list example: Poutine drinking vinegar bitters.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on fgcode</title>
+    <link>http://localhost:1313/tags/javascript/</link>
+    <description>Recent content in Javascript on fgcode</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cómo Obtener Subtítulos de un Video Usando JavaScript en la Consola</title>
+      <link>http://localhost:1313/posts/2024-06-08-obtener-subtitulos-de-un-video/</link>
+      <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-06-08-obtener-subtitulos-de-un-video/</guid>
+      <description>Introducción En este tutorial aprenderás cómo extraer y descargar subtítulos de videos utilizando JavaScript directamente desde la consola del navegador. Este método es útil para videos que ya tienen subtítulos embebidos y te permite guardarlos fácilmente en tu dispositivo.&#xA;Requisitos Navegador web (preferiblemente Chrome o Firefox) Video con subtítulos embebidos Pasos 1. Abrir el Video y Activar Subtítulos Primero, abre el video del cual quieres extraer los subtítulos y asegúrate de que los subtítulos están activados.</description>
+    </item>
+  </channel>
+</rss>
