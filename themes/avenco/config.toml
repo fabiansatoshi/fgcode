@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-baseURL = "http://example.org/"
+baseURL = "https://fgcode.netlify.app/"
 languageCode = "en-us"
 title = "Avenco"
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
