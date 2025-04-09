@@ -14,13 +14,17 @@
             </div>
           </div>
 
-          <form class="subscribe-form validate" action="{{ if .Site.Params.mailchimp.mailchimp__identifier }}//{{.Site.Params.mailchimp.mailchimp__identifier}}{{ else }}#{{ end }}" method="POST"
-            id="membedded-subscribe-form" name="membedded-subscribe-form" target="_blank" novalidate>
-            <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
-            <input class="subscribe-email required email" id="mce-EMAIL" type="text" name="EMAIL"
-              placeholder="Your email address">
-            <button class="button button--big subscribe-button" id="membedded-subscribe" type="submit" name="subscribe">{{ .Site.Params.mailchimp.mailchimp__button__text }}</button>
-          </form>
+
+            <label class="screen-reader-text">Email address</label>
+     
+
+            <button class="button button--big button_whatsapp" onclick="window.location.href='https://api.whatsapp.com/send?phone=5491128973151'">
+              {{ .Site.Params.mailchimp.mailchimp__button__text }} <span class="bi bi-whatsapp whatsapp-icon"></span>
+            </button>
+    
+    
+
+ 
 
         </div>
       </div>

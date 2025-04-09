@@ -1,4 +1,4 @@
 ---
 title: My works
-description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+description: A curated collection of websites, applications, and interfaces built with passion, precision, and a love for clean code.
 ---
